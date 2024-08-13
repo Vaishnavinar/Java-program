@@ -1,1 +1,35 @@
+//Q1   * * * * *
+       * * * * *
+class starP {
+    public static void main(String[] args) {
+        for(int r=1;r<=2;r++)
+        {
+            for(int c=1;c<=5;c++)
+            {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+}
 
+//Q2   * * * * *
+       * * * * *
+       * * * * *
+       * * * * *
+       * * * * *
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class starP {
+    public static void main(String[] args) {
+        for(int r=1;r<=5;r++)
+        {
+            for(int c=1;c<=5;c++)
+            {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+}
